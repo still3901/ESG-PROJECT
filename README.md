@@ -36,3 +36,5 @@
 -	한국 ESG기준원의 등급을 부여받은 기업에 한해, 모든 년도의 등급을 시각화
 -	섹터 평균 ESG 등급과 각 기업이 해당하는 등급을 그래프로 시각화하여 해당하는 섹터내에서의 기업의 ESG등급 비교.
 -	ESG등급 및 기업의 재무성과 변화 추이를 그래프로 시각화하여 ESG등급에 따라 매출액, 영업이익, 자본총계의 긍정적 상관관계를 보여줌.
+
+  https://esg-masterfinal-project-wirljnwaxye6mrzy7ohhu3.streamlit.app/
